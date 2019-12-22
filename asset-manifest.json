@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/StarNavi-test/static/css/main.3e6c199b.chunk.css",
+    "main.css": "/StarNavi-test/static/css/main.bd6787fb.chunk.css",
     "main.js": "/StarNavi-test/static/js/main.51f38932.chunk.js",
     "main.js.map": "/StarNavi-test/static/js/main.51f38932.chunk.js.map",
     "runtime-main.js": "/StarNavi-test/static/js/runtime-main.f1364443.js",
@@ -8,15 +8,15 @@
     "static/js/2.94b78ea9.chunk.js": "/StarNavi-test/static/js/2.94b78ea9.chunk.js",
     "static/js/2.94b78ea9.chunk.js.map": "/StarNavi-test/static/js/2.94b78ea9.chunk.js.map",
     "index.html": "/StarNavi-test/index.html",
-    "precache-manifest.1f93f7f8503462ccb10886346cdff386.js": "/StarNavi-test/precache-manifest.1f93f7f8503462ccb10886346cdff386.js",
+    "precache-manifest.287a176997991cf0c689ed1102d7fcf7.js": "/StarNavi-test/precache-manifest.287a176997991cf0c689ed1102d7fcf7.js",
     "service-worker.js": "/StarNavi-test/service-worker.js",
-    "static/css/main.3e6c199b.chunk.css.map": "/StarNavi-test/static/css/main.3e6c199b.chunk.css.map",
+    "static/css/main.bd6787fb.chunk.css.map": "/StarNavi-test/static/css/main.bd6787fb.chunk.css.map",
     "static/js/2.94b78ea9.chunk.js.LICENSE": "/StarNavi-test/static/js/2.94b78ea9.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.f1364443.js",
     "static/js/2.94b78ea9.chunk.js",
-    "static/css/main.3e6c199b.chunk.css",
+    "static/css/main.bd6787fb.chunk.css",
     "static/js/main.51f38932.chunk.js"
   ]
 }
