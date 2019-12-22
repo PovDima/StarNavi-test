@@ -1,0 +1,58 @@
+.componentWrapper {
+  width: 100%;
+  height: 100%;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.inputBlock {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.gameWrapper {
+  width: 250px;
+  height: 250px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.field {
+  min-width: 50px;
+  min-height: 50px;
+  border: 1px solid silver;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.active {
+  background: turquoise;
+}
+
+.user {
+  background: green;
+  cursor: default !important;
+}
+
+.computer {
+  background: red;
+  cursor: default !important;
+}
+
+.input {
+  min-width: 180px !important;
+}
+
+.button {
+  min-width: 180px !important;
+  background: #252525;
+  color: white;
+}
